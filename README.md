@@ -1,2 +1,1 @@
-# MaverickTechs
-LigaNacionaldeRobótica
+Un saludo desde argentina, tucumán 2021 xd
